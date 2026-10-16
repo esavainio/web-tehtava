@@ -1,4 +1,4 @@
-## Esa Vainio web-tehtava
+## Esa Vainio Web-tehtava
 
 ### Kursivointi ja lihavointi
 Writing in Markdown is _not_ that hard!
